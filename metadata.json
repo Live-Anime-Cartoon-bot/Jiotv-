@@ -1,8 +1,0 @@
-{
-  "name": "live tv",
-  "description": "A high-performance IPTV player with automatic M3U parsing, smart categorisation, and DASH/HLS support with ClearKey DRM integration.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
