@@ -19,12 +19,12 @@ def _require(key: str) -> str:
         )
     return val
 
-API_ID    = int(_require("API_ID"))
-API_HASH  = _require("API_HASH")
-BOT_TOKEN = _require("BOT_TOKEN")
+API_ID    = int(_require("29481626"))
+API_HASH  = _require("4892185769903521077c4cea97808b8c")
+BOT_TOKEN = _require("8619959255:AAFM9xBgLouwUMizDlTASIFbcHoCqD6gmkU")
 
-AUTH_USERS = list(map(int, os.environ.get("AUTH_USERS", "").split())) if os.environ.get("AUTH_USERS") else []
-OWNER_ID   = list(map(int, os.environ.get("OWNER_IDS",  "").split())) if os.environ.get("OWNER_IDS")  else []
+AUTH_USERS = list(map(int, os.environ.get("5856009289", "").split())) if os.environ.get("AUTH_USERS") else []
+OWNER_ID   = list(map(int, os.environ.get("5856009289",  "").split())) if os.environ.get("OWNER_IDS")  else []
 
 DOWNLOAD_DIRECTORY = os.environ.get("DOWNLOAD_DIRECTORY", "./downloads")
 DEFAULT_METADATA   = os.environ.get("DEFAULT_METADATA",   "")
