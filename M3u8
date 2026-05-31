@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="481519" tvg-name="24/7 LITTLE SINGHAM" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77875.jpg" group-title="(KSR) HINDI | KIDS",24/7 LITTLE SINGHAM
+https://ksr.indevs.in/m3u/?stream=481519
 #EXTINF:-1 tvg-id="475130" tvg-name="CARTOON NETWORK FHD | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71803.jpeg" group-title="(KSR) HINDI | KIDS",CARTOON NETWORK FHD | IN
 https://ksr.indevs.in/m3u/?stream=475130
 #EXTINF:-1 tvg-id="475132" tvg-name="DISCOVERY KIDS | IN" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71805.png" group-title="(KSR) HINDI | KIDS",DISCOVERY KIDS | IN
