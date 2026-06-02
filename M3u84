@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids" group-logo="https://yowaimo.in/Logo/JioTv.png",Pogo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+--
+#EXTINF:-1 tvg-id="542" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Kids" group-logo="https://yowaimo.in/Logo/JioTv.png",Pogo Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+--
+#EXTINF:-1 tvg-id="1883" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="Kids" group-logo="https://yowaimo.in/Logo/JioTv.png",Pogo Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+--
+#EXTINF:-1 tvg-id="3032" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Kan.png" group-title="Kids" group-logo="https://yowaimo.in/Logo/JioTv.png",Pogo Kannada
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+--
+#EXTINF:-1 tvg-id="3033" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Mal.png" group-title="Kids" group-logo="https://yowaimo.in/Logo/JioTv.png",Pogo Malayalam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+--
+#EXTINF:-1 tvg-id="3034" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Mar.png" group-title="Kids" group-logo="https://yowaimo.in/Logo/JioTv.png",Pogo Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
